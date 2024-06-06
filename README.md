@@ -5,7 +5,7 @@ This is a simple Django application for detecting human faces in images using Te
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Docker
 - Docker Compose
 
